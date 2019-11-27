@@ -2,7 +2,7 @@
   "name": "tictactoe",
   "version": "0.1.0",
   "private": true,
-  "homepage":"https://an26.github.io/tictactoe",
+  "homepage":"https://an26.github.io/tictactoe/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
